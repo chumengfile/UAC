@@ -1,0 +1,1 @@
+## 把exe复制到此目录并重命名为example.exe再执行uac.bat即可
